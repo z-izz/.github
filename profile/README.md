@@ -9,3 +9,4 @@ ziOS
 zicat
 DOS#BASH
 fetchOS
+vcpu
