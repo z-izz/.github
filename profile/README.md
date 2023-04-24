@@ -10,3 +10,4 @@ zicat
 DOS#BASH
 fetchOS
 vcpu
+multideb
