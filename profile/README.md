@@ -1,5 +1,3 @@
-# We create utility and developer-oriented software.
+# We make utilities and libraries, sometimes.
 
-That's all you need to know.
-
-(not associated with <a href="https://github.com/zephyr-systems">zephyr-systems</a>)
+> Seriously, it takes a long time for projects to be made
